@@ -112,8 +112,8 @@ span.container {
   border: 1px solid var(--Pill-border);
   border-radius: 0.5em;
   background-color: var(--Pill-bg);
-  padding: 0.75em 0.25em;
-  height: 1em;
+  padding: 0em 0.625em;
+  height: 1.375em;
   text-decoration: none !important;
   white-space: nowrap;
 }
@@ -140,8 +140,8 @@ span.container {
 
 .name {
   color: var(--Pill-name);
-  font-weight: 450;
-  font-size: 0.875em;
+  font-weight: 500;
+  font-size: 0.75em;
   letter-spacing: 0.05em;
 }
 </style>
