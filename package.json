@@ -49,7 +49,7 @@
     "prettier-plugin-packagejson": "^2.5.19",
     "prettier-plugin-sort-json": "^4.1.1",
     "prettier-plugin-vitepress": "^0.0.10",
-    "simple-git-hooks": "^2.13.0"
+    "simple-git-hooks": "^2.13.1"
   },
-  "packageManager": "pnpm@10.13.1"
+  "packageManager": "pnpm@10.14.0"
 }
